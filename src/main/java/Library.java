@@ -11,6 +11,8 @@ public class Library {
 		
 		Lab03.ex2.UIApplication.run(arg);
 		
+		// Lab 03 2nd Commit
+		
 //		final String array[] = {"Basic Java", "Advance Java", "Forget about Java"};
 //		Book b = new Book(array);
 //		System.out.println("The tile of Chapter 1 is " + b.getChapter(1));

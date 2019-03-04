@@ -12,6 +12,7 @@ public class Library {
 		Lab03.ex2.UIApplication.run(arg);
 		
 		// Lab 03 2nd Commit
+		// Lab 03 3rd Commit
 		
 //		final String array[] = {"Basic Java", "Advance Java", "Forget about Java"};
 //		Book b = new Book(array);
